@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Hello, Devs!! 👋
+
 ### O meu nome é Victor, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Sorocaba/SP, Brasil
@@ -12,6 +13,7 @@
 ##
 
 #### Tecnologias que tenho me aprofundado:
+
 [<img height="48px" width="48px" alt="CSharp" src="https://skillicons.dev/icons?i=cs"/>](https://dotnet.microsoft.com/pt-br/languages/csharp)
 [<img height="48px" width="48px" alt="DotNet" src="https://skillicons.dev/icons?i=dotnet"/>](https://dotnet.microsoft.com/pt-br/)
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -26,6 +28,7 @@
 ##
 
 #### Ferramentas que uso:
+
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
 [<img height="48px" width="48px" alt="Icone Beekeeper" src="https://i.postimg.cc/j5sT81d4/beekeeperstudio.png"/>](https://www.beekeeperstudio.io)
@@ -38,6 +41,7 @@
 ##
 
 #### Como entrar em contato comigo:
+
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]([(20) Victor Martins | LinkedIn](https://www.linkedin.com/in/victor-martins-44aa7811b/))
 [<img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black"/>]((https://www.instagram.com/victor__.martins/))
 [<img alt="Instagram profile" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft&logoColor=bwhite"/>]((https://www.instagram.com/victor__.martins/))
@@ -45,9 +49,10 @@
 ##
 
 #### Experiência Profissional:
+
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-![image-20231126122459519](C:\Users\victo\AppData\Roaming\Typora\typora-user-images\image-20231126122459519.png)
+[![Fazsoft](https://i.postimg.cc/MZmvHGgV/Captura-de-tela-2023-11-26-122449.png)](https://postimg.cc/dDDqSJsV)
 **Estagiário em desenvolvimento de software** \
 [**Fazsoft Solutions**]([Fazsoft Solutions](http://www.fazsoft.com.br/)) • Full-time \
 Competências: `Desenvolvimento de software  utilizando arquitetura monolitica modular`,` DDD`, `CQRS`.
@@ -56,9 +61,10 @@ Competências: `Desenvolvimento de software  utilizando arquitetura monolitica m
 ##
 
 #### Formação Acadêmica:
+
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[![image-20231126121655337](C:\Users\victo\AppData\Roaming\Typora\typora-user-images\image-20231126121655337.png)](https://cubos.academy/)
+[![Facens](https://i.postimg.cc/28Yh9MNF/Captura-de-tela-2023-11-26-123810.png)](https://postimg.cc/0rtzbtQb)
 **Analise e Desenvolvimento de Sistemas** \
 [**Facens**]([Facens | Centro Universitário](https://facens.br/)) \
 Conteúdo abordado:
