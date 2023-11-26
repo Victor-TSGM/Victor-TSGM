@@ -43,8 +43,8 @@
 #### Como entrar em contato comigo:
 
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/victor-martins-44aa7811b/)
-[<img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black"/>]((https://www.instagram.com/victor__.martins/))
-[<img alt="Instagram profile" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft&logoColor=bwhite"/>]((https://www.instagram.com/victor__.martins/))
+[<img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black"/>](https://www.instagram.com/victor__.martins/)
+[<img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft&logoColor=bwhite"/>](mailto:victor.martins00@outlook.com)
 
 ##
 
