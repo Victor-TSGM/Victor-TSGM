@@ -53,8 +53,9 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [![Fazsoft](https://i.postimg.cc/MZmvHGgV/Captura-de-tela-2023-11-26-122449.png)](https://postimg.cc/dDDqSJsV)
+
 **Estagiário em desenvolvimento de software** \
-[**Fazsoft Solutions**] • Full-time \
+**Fazsoft Solutions** • Full-time \
 Competências: `Desenvolvimento de software  utilizando arquitetura monolitica modular`,` DDD`, `CQRS`.
 <br/> `Suportar time de desenvolvimento nos projetos`, `aplicar Design Patterns nos projetos`.
 
@@ -65,8 +66,9 @@ Competências: `Desenvolvimento de software  utilizando arquitetura monolitica m
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
 [![Facens](https://i.postimg.cc/28Yh9MNF/Captura-de-tela-2023-11-26-123810.png)](https://postimg.cc/0rtzbtQb)
+
 **Analise e Desenvolvimento de Sistemas** \
-[**Facens**]\
+**Facens**\
 Conteúdo abordado:
 
  - Desenvolvimento de Software Front-end:  `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
