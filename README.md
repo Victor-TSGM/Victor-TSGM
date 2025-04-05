@@ -7,7 +7,8 @@
 - 🔰  Sou de Sorocaba/SP, Brasil
 - ⚡ Apaixonado por tecnologia, música e filosofia
 - 🎸 Let's play Rock'n Roll
-- 🧠 Estudante de Analise e Desenvolvimento de Software na FACENS
+- 🧠 Formado em Analise e Desenvolvimento de Software na FACENS
+- 🧠 Estudante de pós graduação Software Archtecture pela FIAP
 - 🏦 Atualmente trabalho como estagiário em desenvolvimento de software na empresa Fazsoft Solutions em Sorocaba-SP
 
 ##
